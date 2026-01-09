@@ -1,0 +1,9 @@
+JavaScript:
+- language of web
+- can calculate, manipulate and validate data
+- can update and change both html and css
+
+JS can also change html content
+- there is a method document.getElementById()
+- ex. 
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
